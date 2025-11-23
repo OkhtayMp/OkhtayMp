@@ -6,6 +6,7 @@ On the product side, I design and implement domain-specific backends – from st
 
 On the tooling and infrastructure side, I work on projects such as:
 
+
 - `iran-national-id` – a Python library for working with Iranian national identifiers, including validation and domain-specific business rules  
 - an advanced traffic inspection and tunneling stack (`request-inspector`), built around reverse TCP techniques and VPN-like networking, currently under private development  
 - `ddns-key-management-api` – an API surface for DDNS-related key and credential management  
@@ -55,24 +56,139 @@ My day-to-day work is Python-centric, with a strong focus on backend architectur
 ![Godot Engine](https://img.shields.io/badge/Godot-FFFFFF?style=for-the-badge&logo=godot-engine&logoColor=2EA3E6)
 ![OpenGL](https://img.shields.io/badge/OpenGL-FFFFFF?style=for-the-badge&logo=opengl&logoColor=000000)
 
+## 📈 Activity & Contributions
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=okhtaymp&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=okhtaymp&theme=transparent&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=okhtaymp&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=okhtaymp&theme=default_repocard&no-frame=true&no-bg=false&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=okhtaymp&limit=5&theme=default_repocard&combine_all_yearly_contributions=true)
+<p align="center">
+  <picture>
+    <!-- Dark mode -->
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-activity-graph.vercel.app/graph?username=okhtaymp&theme=github-compact&bg_color=0D1117&color=58a6ff&line=238636&point=58a6ff&area=true&hide_border=true"
+    />
+    <!-- Light mode -->
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://github-readme-activity-graph.vercel.app/graph?username=okhtaymp&theme=github-compact&bg_color=ffffff&color=0969da&line=218bff&point=24292e&area=true&hide_border=true"
+    />
+    <!-- Fallback -->
+    <img
+      src="https://github-readme-activity-graph.vercel.app/graph?username=okhtaymp&theme=github-compact&hide_border=true"
+      alt="OkhtayMp's GitHub activity graph"
+    />
+  </picture>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=okhtaymp&icon=1&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/okhtayMp) 
+# 📊 GitHub Stats
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+  <picture>
+    <!-- Dark mode -->
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-stats.vercel.app/api?username=okhtaymp&hide_border=false&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=ffffff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d"
+    />
+    <!-- Light mode -->
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://github-readme-stats.vercel.app/api?username=okhtaymp&hide_border=false&include_all_commits=true&count_private=true&bg_color=ffffff&title_color=000000&text_color=333333&icon_color=0969da&border_color=d0d7de"
+    />
+    <!-- Fallback -->
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=okhtaymp&hide_border=false&include_all_commits=true&count_private=true"
+      alt="OkhtayMp's GitHub stats"
+    />
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <!-- Dark mode -->
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://nirzak-streak-stats.vercel.app/?user=okhtaymp&theme=dark&hide_border=false&background=0D1117"
+    />
+    <!-- Light mode -->
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://nirzak-streak-stats.vercel.app/?user=okhtaymp&hide_border=false&background=ffffff"
+    />
+    <!-- Fallback -->
+    <img
+      src="https://nirzak-streak-stats.vercel.app/?user=okhtaymp&hide_border=false"
+      alt="OkhtayMp's GitHub streak"
+    />
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <!-- Dark mode -->
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=okhtaymp&layout=compact&hide_border=false&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=ffffff&text_color=c9d1d9&border_color=30363d"
+    />
+    <!-- Light mode -->
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=okhtaymp&layout=compact&hide_border=false&include_all_commits=true&count_private=true&bg_color=ffffff&title_color=000000&text_color=333333&border_color=d0d7de"
+    />
+    <!-- Fallback -->
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=okhtaymp&layout=compact&hide_border=false&include_all_commits=true&count_private=true"
+      alt="Top languages"
+    />
+  </picture>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <picture>
+    <!-- Dark mode -->
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-profile-trophy.vercel.app/?username=okhtaymp&theme=darkhub&no-frame=true&no-bg=true&margin-w=4"
+    />
+    <!-- Light mode -->
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://github-profile-trophy.vercel.app/?username=okhtaymp&theme=default_repocard&no-frame=true&no-bg=true&margin-w=4"
+    />
+    <!-- Fallback -->
+    <img
+      src="https://github-profile-trophy.vercel.app/?username=okhtaymp&theme=default_repocard&no-frame=true&no-bg=true&margin-w=4"
+      alt="GitHub Trophies"
+    />
+  </picture>
+</p>
+
+### 🔝 Top Contributed Repo
+
+<p align="center">
+  <picture>
+    <!-- Dark mode -->
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-contributor-stats.vercel.app/api?username=okhtaymp&limit=5&theme=dark&combine_all_yearly_contributions=true"
+    />
+    <!-- Light mode -->
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://github-contributor-stats.vercel.app/api?username=okhtaymp&limit=5&theme=default_repocard&combine_all_yearly_contributions=true"
+    />
+    <!-- Fallback -->
+    <img
+      src="https://github-contributor-stats.vercel.app/api?username=okhtaymp&limit=5&theme=default_repocard&combine_all_yearly_contributions=true"
+      alt="Top contributed repos"
+    />
+  </picture>
+</p>
+
+
+## 💰 You can help me by Donating
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/okhtayMp) 
+
